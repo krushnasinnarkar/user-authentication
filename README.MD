@@ -1,4 +1,4 @@
-# User Authentication Service
+# User Authentication
 
 This project provides a user authentication service, including registration, login, OTP-based email verification, and password reset functionality.
 
