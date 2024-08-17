@@ -38,7 +38,7 @@ npm install && npm start
 
 ### Postman Collection
 
-- Import the `user-auth.postman_collection.json` file into Postman to test all the endpoints.
+- Import the [`user-auth.postman_collection.json`](./user-auth.postman_collection.json) file into Postman to test all the endpoints.
 - This collection includes pre-configured requests for all authentication-related routes, including OTP generation and verification.
 - The collection dynamically sets up the OTP and OTP verification status.
 
