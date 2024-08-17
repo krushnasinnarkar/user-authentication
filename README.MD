@@ -18,7 +18,8 @@ Create a `.env` file in the root directory and add the following variables with 
 To install the necessary dependencies and start the project, run the following command:
 
 ```bash
-npm install && npm start```
+npm install && npm start
+```
 
 ### Testing OTP
 For testing OTP functionality, we're using Ethereal Email. You can create a free email account there and use it to send and receive OTPs.
