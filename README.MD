@@ -26,3 +26,9 @@ For testing OTP functionality, we're using Ethereal Email. You can create a free
 
 ### Postman Collection
 To test all the endpoints, import the user-auth.postman_collection.json file into Postman. This collection includes pre-configured requests for all authentication-related routes, including OTP generation and verification.
+
+- Sending OTP
+- Verifying OTP
+- Registering a User
+- Logging in a User
+- Resetting Password
